@@ -1,0 +1,23 @@
+.nav{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    background-image: url(images/bg.jpg);
+    overflow: auto;
+
+    
+}
+
+.nav input[type=text] {
+    float: right;
+    padding: 7px;
+    border: none;
+    margin-top: 33px;
+    margin-right: 16px;
+    font-size: 17px;
+    border-radius: 25px; 
+  }
+
+  .nav image{
+    height: 50%
+  }
