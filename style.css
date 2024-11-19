@@ -1,5 +1,5 @@
-body{
-  display:contents;
+body {
+  display: contents;
   justify-content: center;
   align-items: center;
   margin: 0;
@@ -44,12 +44,14 @@ body{
   justify-content: center;
   padding-bottom: 10px;
 }
-.tab-centre{
+
+.tab-centre {
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 0;
 }
+
 .tab {
   padding: 20px;
   display: grid;
